@@ -9,10 +9,11 @@ public class JavaTest {
         int clm = 116000;
         int a = -10;
         int b = 0;
-        if (a>0)
+        if (a>0) {
             a++;
-        else
+        } else {
             b++;
+        }
 
 //        ExecutorService executorService = Executors.newScheduledThreadPool(10);
 //        for (int i=0; i<1000; i++) {
