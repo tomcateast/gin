@@ -6,7 +6,7 @@ import java.util.concurrent.TimeUnit;
 
 public class JavaTest {
     public static void main(String args[]) {
-        int ctm = 116000;
+        int clm = 116000;
         int a = -10;
         int b = 0;
         if (a>0)
