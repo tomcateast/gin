@@ -1,5 +1,5 @@
 public class TestCommit {
     public String systemOutLog() {
-        return "";
+        return "123";
     }
 }
