@@ -9,6 +9,7 @@ public class JavaTest {
         int clm = 116000;
         int a = -10;
         int b = 0;
+        int testCommit = 0;
         if (a>0) {
             a++;
         } else {
